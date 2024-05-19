@@ -1,0 +1,6 @@
+@Bukhori_HostAddress = http://localhost:5077
+
+GET {{Bukhori_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
